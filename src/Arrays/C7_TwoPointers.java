@@ -4,10 +4,10 @@ import java.util.Arrays;
 
 public class C7_TwoPointers {
     public static void main(String[] args) {
-        Question1();
-        Question2();
-        Question3();
-        Question4();
+        Question1(); //Sort 0s and 1s using Brute Force Algorithm
+        Question2(); //Sort 0s and 1s using two pointers
+        Question3(); //Arrays with odd numbers first followed by even numbers
+        Question4(); //Non decreasing sorted square array
     }
 
     /**
