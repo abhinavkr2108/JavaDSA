@@ -35,7 +35,7 @@ public class C3_QuestionsPart2 {
     }
 
     /**
-     * Count the number of occurences of a paricular element x
+     * Count the number of occurrences of a particular element x
      */
     private static int Question1(int array[], int element){
         int count =0;
